@@ -2,6 +2,7 @@
 
 * I'm a Data Science enthusiast.
 * I've worked as a Machine Learning Intern at Code13 Edutech Pvt Ltd and at Grroom.
+* Worked as an intern in PwC and currently working in Clarivate Analytics focussing on data visualisation using Power BI.
 * I'm extremely interested in leveraging concepts of Data Science and Machine Learning in making progress in the field of healthcare.
 
 <br>
