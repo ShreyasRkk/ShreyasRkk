@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Shreyas! </h1>
 
-* I'm a Data Science enthusiast.
-* I've worked as an intern for PwC, and I'm currently employed by Clarivate Analytics, where my primary focus is on data visualisation using Power BI.
-* Additionally, I've also worked as a Machine Learning Intern at Code13 Edutech Pvt Ltd and at Grroom.
-* I'm extremely interested in leveraging concepts of Data Science and Machine Learning in making progress in the field of healthcare.
+* I'm a ECE grad student at University of Washington, Seattle.
+* Currently working on a project with Amazon on Home Presence Detection and Localization using WiFi CSI module.
+* Exploring the fields of Embedded Systems and Wireless Communication, and their integration with machine and deep learning technologies.
+* I Have prior work experience in machine learning, data analytics and visualization.
 
 <br>
 
