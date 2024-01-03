@@ -2,8 +2,7 @@
 
 * I'm a ECE grad student at University of Washington, Seattle.
 * Currently working on a project with Amazon on Home Presence Detection and Localization using WiFi CSI module.
-* Exploring the fields of Embedded Systems and Wireless Communication, and their integration with machine and deep learning technologies.
-* I Have prior work experience in machine learning, data analytics and visualization.
+* With prior experience in machine learning and data analytics, I'm interested in exploring the fields of Embedded Systems and Wireless Communication, and their integration with machine and deep learning technologies.
 
 <br>
 
